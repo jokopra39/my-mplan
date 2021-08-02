@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492286240664",
+    "firebase_url": "https://mplan-dfffb.firebaseio.com",
+    "project_id": "mplan-dfffb",
+    "storage_bucket": "mplan-dfffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492286240664:android:2e060486ff07e48f98eded",
+        "android_client_info": {
+          "package_name": "com.example.mplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492286240664-75dqvmka7o9oi86pe2v4662d3em4n7b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mplan",
+            "certificate_hash": "376f5cd1e0f166f9af14dce0119848fce8b488ca"
+          }
+        },
+        {
+          "client_id": "492286240664-mbpvmjuk8m924qekj33unmrvv8rmk8fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcXPBro79D_bsJKJdlD4esR1Xz_qbAFn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492286240664-mbpvmjuk8m924qekj33unmrvv8rmk8fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
